@@ -12,10 +12,14 @@ Linear PnP, RANSAC and Non linear optimization
 Bundle Adjustment
 
 # Pipeline
-![alt text](https://github.com/Dhrumil-Kotadia/sparse_3d_reconstruction_using_SfM/blob/main/Images/pipeline.png)
+<p align="center">
+ <img src="images/pipeline.png" width="400"/>
+</p>
 
 # Results
-![alt text](https://github.com/Dhrumil-Kotadia/sparse_3d_reconstruction_using_SfM/blob/main/Images/Results.png)
+<p align="center">
+ <img src="images/Results.png" width="400"/>
+</p>
 
 # How to run the code
 Run Wrapper.py 
