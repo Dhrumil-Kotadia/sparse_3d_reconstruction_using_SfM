@@ -1,4 +1,4 @@
-# Scene-Synthesis-using-SFM
+# sparse_3d_reconstruction_using_SfM
 
 # Introduction
 In this project, we reconstructed a 3D scene and simultaneously obtained the camera poses with respect to the scene, with a given set of 6 images from a monocular camera and their feature point correspondences. Following are the steps involved:
@@ -12,10 +12,10 @@ Linear PnP, RANSAC and Non linear optimization
 Bundle Adjustment
 
 # Pipeline
-![alt text](https://github.com/DhirajRouniyar/Scene-Synthesis-using-SFM/blob/main/Images/pipeline.png)
+![alt text](https://github.com/Dhrumil-Kotadia/sparse_3d_reconstruction_using_SfM/blob/main/Images/pipeline.png)
 
 # Results
-![alt text](https://github.com/DhirajRouniyar/Scene-Synthesis-using-SFM/blob/main/Images/Results.png)
+![alt text](https://github.com/Dhrumil-Kotadia/sparse_3d_reconstruction_using_SfM/blob/main/Images/Results.png)
 
 # How to run the code
 Run Wrapper.py 
